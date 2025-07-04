@@ -8,4 +8,4 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
-# Deployment fix
+// Deployment fix
